@@ -52,7 +52,6 @@ financial understanding aimed at building scalable and future oriented solutions
 
 <img src="https://skillicons.dev/icons?i=aws" />
 
----
 
 ### 📊 Data & Visualization
 
@@ -62,7 +61,6 @@ financial understanding aimed at building scalable and future oriented solutions
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" height="40"/>
 </p>
 
----
 
 ### 🔗 Blockchain Tools
 
